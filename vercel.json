@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://recruiting.adp.com/srccar/public/RTI.home?c=1127807&d=AssociatedCareerCenter/$1"
+ }
+  ]
+}
